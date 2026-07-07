@@ -23,6 +23,8 @@ fullstack-bootcamp/
 - Build real-world projects
 - Track progress with Git and GitHub
 
+
+
 ## Progress
 
 - [ ] HTML & CSS Refresh
